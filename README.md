@@ -35,7 +35,7 @@ Features:
 * Handled common runtime errors
 * Debugged a Python script and resolved IndexError
 
-![Screenshots](screenshots/week4_task2.png)
+![Screenshots](screenshots/week4_task3_1.png)
 ![Screenshots](screenshots/week4_task3_2.png)
 
 ---
